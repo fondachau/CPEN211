@@ -1,0 +1,117 @@
+{C:/Users/Fonda Chau/Desktop/SECOND YEAR/PROGRAMS/CPEN211/lab7/regfile.v} {1 {vlog -work work -stats=none {C:/Users/Fonda Chau/Desktop/SECOND YEAR/PROGRAMS/CPEN211/lab7/regfile.v}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module registerFile
+-- Compiling module LERegister
+-- Compiling module LERegister3
+-- Compiling module Muxh8
+-- Compiling module Muxb2
+-- Compiling module Muxo2
+-- Compiling module Dec
+
+Top level modules:
+	registerFile
+	LERegister3
+	Muxb2
+
+} {} {}} {C:/Users/Fonda Chau/Desktop/SECOND YEAR/PROGRAMS/CPEN211/lab7/ALU.v} {2 {vlog -work work -stats=none {C:/Users/Fonda Chau/Desktop/SECOND YEAR/PROGRAMS/CPEN211/lab7/ALU.v}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module ALU
+-- Compiling module AddSub
+-- Compiling module Adder1
+-- Compiling module ALU_tb
+** Warning: C:/Users/Fonda Chau/Desktop/SECOND YEAR/PROGRAMS/CPEN211/lab7/ALU.v(83): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: C:/Users/Fonda Chau/Desktop/SECOND YEAR/PROGRAMS/CPEN211/lab7/ALU.v(84): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: C:/Users/Fonda Chau/Desktop/SECOND YEAR/PROGRAMS/CPEN211/lab7/ALU.v(87): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: C:/Users/Fonda Chau/Desktop/SECOND YEAR/PROGRAMS/CPEN211/lab7/ALU.v(87): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: C:/Users/Fonda Chau/Desktop/SECOND YEAR/PROGRAMS/CPEN211/lab7/ALU.v(90): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: C:/Users/Fonda Chau/Desktop/SECOND YEAR/PROGRAMS/CPEN211/lab7/ALU.v(91): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: C:/Users/Fonda Chau/Desktop/SECOND YEAR/PROGRAMS/CPEN211/lab7/ALU.v(94): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: C:/Users/Fonda Chau/Desktop/SECOND YEAR/PROGRAMS/CPEN211/lab7/ALU.v(94): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: C:/Users/Fonda Chau/Desktop/SECOND YEAR/PROGRAMS/CPEN211/lab7/ALU.v(98): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: C:/Users/Fonda Chau/Desktop/SECOND YEAR/PROGRAMS/CPEN211/lab7/ALU.v(99): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: C:/Users/Fonda Chau/Desktop/SECOND YEAR/PROGRAMS/CPEN211/lab7/ALU.v(102): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: C:/Users/Fonda Chau/Desktop/SECOND YEAR/PROGRAMS/CPEN211/lab7/ALU.v(105): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: C:/Users/Fonda Chau/Desktop/SECOND YEAR/PROGRAMS/CPEN211/lab7/ALU.v(106): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: C:/Users/Fonda Chau/Desktop/SECOND YEAR/PROGRAMS/CPEN211/lab7/ALU.v(109): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: C:/Users/Fonda Chau/Desktop/SECOND YEAR/PROGRAMS/CPEN211/lab7/ALU.v(109): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: C:/Users/Fonda Chau/Desktop/SECOND YEAR/PROGRAMS/CPEN211/lab7/ALU.v(113): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: C:/Users/Fonda Chau/Desktop/SECOND YEAR/PROGRAMS/CPEN211/lab7/ALU.v(114): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: C:/Users/Fonda Chau/Desktop/SECOND YEAR/PROGRAMS/CPEN211/lab7/ALU.v(117): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: C:/Users/Fonda Chau/Desktop/SECOND YEAR/PROGRAMS/CPEN211/lab7/ALU.v(117): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+
+Top level modules:
+	ALU_tb
+
+} {} {}} {C:/Users/Fonda Chau/Desktop/SECOND YEAR/PROGRAMS/CPEN211/lab7/datapath.v} {1 {vlog -work work -stats=none {C:/Users/Fonda Chau/Desktop/SECOND YEAR/PROGRAMS/CPEN211/lab7/datapath.v}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module datapath
+-- Compiling module RAM
+-- Compiling module Muxb4
+-- Compiling module Muxo4
+
+Top level modules:
+	datapath
+
+} {} {}} {C:/Users/Fonda Chau/Desktop/SECOND YEAR/PROGRAMS/CPEN211/lab7/lab7_top.v} {1 {vlog -work work -stats=none {C:/Users/Fonda Chau/Desktop/SECOND YEAR/PROGRAMS/CPEN211/lab7/lab7_top.v}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module lab7_top
+-- Compiling module vDFF
+-- Compiling module sseg
+
+Top level modules:
+	lab7_top
+	vDFF
+
+} {} {}} {C:/Users/Fonda Chau/Desktop/SECOND YEAR/PROGRAMS/CPEN211/lab7/datapath_tb.v} {1 {vlog -work work -stats=none {C:/Users/Fonda Chau/Desktop/SECOND YEAR/PROGRAMS/CPEN211/lab7/datapath_tb.v}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module datapath_tb
+
+Top level modules:
+	datapath_tb
+
+} {} {}} {C:/Users/Fonda Chau/Desktop/SECOND YEAR/PROGRAMS/CPEN211/lab7/CPU.v} {1 {vlog -work work -stats=none {C:/Users/Fonda Chau/Desktop/SECOND YEAR/PROGRAMS/CPEN211/lab7/CPU.v}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module CPU
+-- Compiling module INSTRUCTIONDECODER
+-- Compiling module SIGNEXTEND
+-- Compiling module Muxb3
+-- Compiling module Mux3a
+
+Top level modules:
+	CPU
+	INSTRUCTIONDECODER
+
+} {} {}} {C:/Users/Fonda Chau/Desktop/SECOND YEAR/PROGRAMS/CPEN211/lab7/CPU_tb.v} {1 {vlog -work work -stats=none {C:/Users/Fonda Chau/Desktop/SECOND YEAR/PROGRAMS/CPEN211/lab7/CPU_tb.v}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module CPUwithDATAPATH_test
+
+Top level modules:
+	CPUwithDATAPATH_test
+
+} {} {}} {C:/Users/Fonda Chau/Desktop/SECOND YEAR/PROGRAMS/CPEN211/lab7/shifter.v} {1 {vlog -work work -stats=none {C:/Users/Fonda Chau/Desktop/SECOND YEAR/PROGRAMS/CPEN211/lab7/shifter.v}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module shifter
+
+Top level modules:
+	shifter
+
+} {} {}}
